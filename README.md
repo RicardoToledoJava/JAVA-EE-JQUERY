@@ -105,7 +105,7 @@ VALUES
 # Crear aplicacion JAVA EN NETBEANS
 
 1.- Nombre Aplicacion: AppJava01
-2.- La plicacion el listas desplegables debe listar lo siguiente:
+2.- La aplicacion tiene 3 listas desplegables que contienen lo siguiente:
 	.- Listar Todos los Servicios
 	.- Listar Todas las Unidades
 	.- Listar Todas las Responsables

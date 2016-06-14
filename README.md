@@ -111,7 +111,9 @@ VALUES
 	.- Listar Todas las Responsables
 	.- Crear una caja de texto para describir la tarea.
 	
-3.- Continuara...
+3.- Estructura del proyecto
+
+ ![Descripcion](estructura.png)
 
 
 

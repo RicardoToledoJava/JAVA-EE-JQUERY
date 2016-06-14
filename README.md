@@ -113,7 +113,7 @@ VALUES
 	
 3.- Estructura del proyecto
 
- ![Descripcion](estructura.png) 
+ ![Estructura](estructura.png) 
  
  
  4.-Continuara...
